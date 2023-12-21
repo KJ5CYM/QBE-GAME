@@ -1,2 +1,2 @@
 # QBE-GAME
-Blocky sandbox game written in Python using OpenGL.
+A blocky sandbox game made with OpenGL and written in Python! :)
